@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0" class="java.beans.XMLDecoder">
+ <array class="lista06_ex04.Produto" length="3">
+  <void index="0">
+   <object class="lista06_ex04.Produto">
+    <void property="codigo">
+     <int>23</int>
+    </void>
+    <void property="nome">
+     <string>bunda</string>
+    </void>
+    <void property="preco">
+     <double>12.0</double>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="lista06_ex04.Produto">
+    <void property="codigo">
+     <int>24</int>
+    </void>
+    <void property="nome">
+     <string>bunda2</string>
+    </void>
+    <void property="preco">
+     <double>12.0</double>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="lista06_ex04.Produto">
+    <void property="codigo">
+     <int>25</int>
+    </void>
+    <void property="nome">
+     <string>bunda3</string>
+    </void>
+    <void property="preco">
+     <double>12.0</double>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>
